@@ -6,7 +6,7 @@ setup(
 	description = "Downloads songs, albums or playlists from deezer",
 	long_description_content_type = "text/markdown",
 	license = "CC BY-NC-SA 4.0",
-	python_requires = ">=3.8",
+	python_requires = ">=3.7",
 	author = "An0nimia",
 	url = "https://github.com/OpenJarbas/deezeridu",
 	packages = ["deezeridu", "deezeridu/models"],
